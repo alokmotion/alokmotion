@@ -30,13 +30,6 @@ Let's code something awesome together! 🚀
 
 
 
-
-<br>
-<br>
-
-
-
-
 ##
 
 | Social Profiles | Coding Profiles | About Me | GitHub Stats |
