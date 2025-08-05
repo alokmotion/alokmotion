@@ -58,3 +58,6 @@ Let's code something awesome together! 🚀
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokmotion&" alt="alokmotion" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokmotion" alt="alokmotion" />
+<img src="https://streak-stats.demolab.com?user=alokmotion" alt="alokmotion" />
+
