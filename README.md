@@ -1,4 +1,7 @@
-<h1 align="center">Alok Patel</h1>
+<h1 align="center">
+  Alok Patel
+  <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" alt="Wave" width="80" height="80" style="border-radius: 50%;"/>
+</h1>
 
 <p align="center">
   <b>Lead Software Engineer</b> · Java · Spring Boot · Apache Kafka · Microservices
@@ -9,7 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://nextaibot.tech"><img src="https://img.shields.io/badge/Portfolio-nextaibot.tech-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/alokmotion"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:alokpatel406@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.youtube.com/alokmotionclasses"><img src="https://img.shields.io/badge/YouTube-4M%2B%20views-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -20,11 +22,13 @@
 
 ## About
 
+<img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="200" height="180" style="border-radius: 10px;" alt="Coding"/>
+
 Lead Software Engineer and founding technical hire with ~3 years of experience designing and scaling event-driven microservices in **Java, Spring Boot, Kafka, and PostgreSQL**.
 
 - Joined a startup as its **first engineer**, replaced the third-party software it resold with an in-house product suite, and scaled it to **10,000+ customers**.
 - Now lead a **20+ person engineering team** across architecture, development, code review, and production deployment.
-- Architected, built, and deployed **[NextAIBot](https://nextaibot.tech)** solo — a production omnichannel automation SaaS on a polyglot microservice architecture.
+- Comfortable owning a system end to end — architecture, build, deployment, and scaling on self-hosted infrastructure.
 - Technical educator on the side: **485+ videos, 4M+ views** teaching programming fundamentals.
 
 📫 **alokpatel406@gmail.com** — open to conversations about backend architecture, distributed systems, and interesting problems.
@@ -45,20 +49,6 @@ Lead Software Engineer and founding technical hire with ~3 years of experience d
 **Backend Developer (Intern)** — Sibey India Pvt Ltd · `07/2023 – 10/2023`
 
 - Built REST APIs for a vendor-discovery platform (onboarding, listings, bookings) with location-based search and data-integrity validations.
-
----
-
-## Flagship Project
-
-### 🚀 NextAIBot — Omnichannel Automation SaaS · [nextaibot.tech](https://nextaibot.tech)
-
-`Spring Boot` `Node.js` `Apache Kafka` `Redis` `PostgreSQL` `Spring Cloud Gateway` `Docker`
-
-Architected, built, and deployed solo.
-
-- Production SaaS automating **WhatsApp, Facebook, Instagram, and Google Business** on a polyglot microservice architecture — Spring Boot for core APIs and automation, Node.js for real-time high-concurrency messaging.
-- Reactive **Spring Cloud Gateway** edge with multi-tenant white-label resolution and HMAC-signed internal APIs.
-- OpenAI-powered replies on a credit model; **Stripe + Razorpay** subscriptions via signature-verified webhooks; self-hosted on a VPS with Docker.
 
 ---
 
