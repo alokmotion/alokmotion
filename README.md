@@ -1,7 +1,11 @@
-<h1 align="center">
-  Alok Patel
-  <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" alt="Waving hand" width="80" height="80" />
-</h1>
+
+<p align="center">
+  <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" alt="Waving hand" width="110" />
+</p>
+
+<h1 align="center"> I'm Alok Patel</h1>
+
+
 
 **Lead Software Engineer at MBG Card India**
 
